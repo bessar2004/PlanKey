@@ -50,6 +50,16 @@ MODEL_ADI = "gemma4:31b-cloud"
 KISAYOL_METIN = keyboard.Key.f8
 ```
 
+## 📁 Dosyalar
+
+```
+.
+├── main.pyw          # Ana uygulama — arka planda sessiz çalışır
+├── BASLAT.bat        # Tek tıkla başlatıcı
+├── kurulum.bat       # İlk kurulum scripti
+└── requirements.txt  # requests · pyperclip · pynput · pyautogui
+```
+
 ## Lisans
 
 MIT
