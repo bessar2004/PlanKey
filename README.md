@@ -41,14 +41,7 @@ pythonw main.pyw
 ```
 *(Veya direkt olarak `BASLAT.bat` dosyasına tıklayın.)*
 
-## Yapılandırma
 
-Kısayol tuşunu veya model tercihlerini değiştirmek için `main.pyw` dosyasının üst kısmını düzenleyin:
-
-```python
-MODEL_ADI = "gemma4:31b-cloud"
-KISAYOL_METIN = keyboard.Key.f8
-```
 
 ## 📁 Dosyalar
 
