@@ -25,7 +25,7 @@ Sisteminizde [Ollama](https://ollama.com) ve Python 3.8+ kurulu olmalıdır.
 
 ```bash
 # 1. Ollama modelini indirin ve servisi başlatın
-ollama pull gemma3
+ollama pull gemma4:31b-cloud
 ollama serve
 
 # 2. Bağımlılıkları kurun
@@ -40,8 +40,6 @@ Uygulamayı arka planda terminal penceresi olmadan başlatmak için:
 pythonw main.pyw
 ```
 *(Veya direkt olarak `BASLAT.bat` dosyasına tıklayın.)*
-
-
 
 ## 📁 Dosyalar
 
